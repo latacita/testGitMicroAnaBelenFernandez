@@ -1,8 +1,13 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Fernández San Miguel, Ana):                              %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(01)  Clonar repositorio
+(02)  Modificar bitácora con datos personales
+(03)  Guardar Cambios
+(04 - 08) Commit con dirección rama a
+(09-11) Commit con dirección rama b
