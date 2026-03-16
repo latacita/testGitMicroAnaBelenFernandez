@@ -11,5 +11,6 @@
 (03)  Guardar Cambios
 (04 - 08) Commit con dirección rama a
 (09-11) Commit con dirección rama b
-(11-13) Merge Rama A			conflicto bitacora.txt	
-(14)  Merge Rama B			conflicto direccion.txt 
+(11-13) Merge Rama A			conflicto bitacora.txt	recursiva
+(14)  Merge Rama B			conflicto direccion.txt recursiva
+(25) Merge RamaB 
